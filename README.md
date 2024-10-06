@@ -17,9 +17,8 @@ A simple countdown timer to celebrate the New Year! This project uses HTML, CSS,
 - CSS
 - JavaScript
 
-## Getting Started
 
-To run this project locally, follow these steps:
+![countdown_timer](https://github.com/user-attachments/assets/a751de8c-1440-4dd0-823b-164a45ad8ebb)
 
-![image](https://github.com/user-attachments/assets/a5d001a4-74d4-44e1-a799-16d41f699b72)
+
 
